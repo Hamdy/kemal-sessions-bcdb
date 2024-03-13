@@ -1,6 +1,6 @@
 # kemal-session-bcdb
 
-A BCDB session Storage backend for [Kemalcr.com](https://kemalcr.com/)
+A [BCDB store](https://github.com/threefoldtecharchive/bcdb)  session backend for [Kemalcr.com](https://kemalcr.com/)
 
 
 ## Installation
